@@ -1,0 +1,6 @@
+streamlit 
+langchain_community
+langchain 
+langchain_text_splitters 
+langchain_openai
+langchain_groq
